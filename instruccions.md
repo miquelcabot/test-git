@@ -6,3 +6,6 @@ Welcomme1 to the project! Please follow the instructions below to get started:
    ```bash
    git clone <repository-url>
    ```
+
+
+2. **Delete**
